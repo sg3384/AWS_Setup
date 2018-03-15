@@ -14,7 +14,7 @@ Prefer using Mozilla, Safari or Internet Explorer.
 
 2.2. Choose instance type: recommended: t2.micro (free tier eligible)
 
-2.3. Choose security Group: Select -> MY IP [so that only you have access to your instance and data ] , and then HTTPS
+2.3. Choose security Group: Select -> MY IP (Otherwise anyone can log onto your instance and use it, steal your data) , and then HTTPS
 
 2.4. Launch Instance: Review and Launch your instance.
 
@@ -38,3 +38,13 @@ Have patience. It getting a virtual machine set up for you.
 ### 5. Terminate instances:
            
 Action -> Instance State -> Terminate
+
+
+Other Notes
+Under **Build a Solution** click on `Launch a Vertual Machine`  
+Under **EC2 Instance** click `Get Started`  
+Name your EC2 Instance (eg. RStudio)  
+You may be asked to choose a region, choose East Coast
+Select AMI from http://www.louisaslett.com/RStudio_AMI/
+ 
+--> Automated Collection of Tweets
