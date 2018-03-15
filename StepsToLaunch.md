@@ -1,7 +1,6 @@
 # Easy Steps to Launch when in AWS Set up
 
-Tip:
-Avoid using Chrome.
+Tip: Avoid using Chrome.
 Prefer using Mozilla, Safari or Internet Explorer.
 
 ### 1. In The EC2 dashboard, choose "launch Instance". 
